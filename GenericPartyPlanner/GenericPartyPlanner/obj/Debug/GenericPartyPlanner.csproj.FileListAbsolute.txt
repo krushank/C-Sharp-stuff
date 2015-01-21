@@ -1,0 +1,9 @@
+C:\Users\Chris\documents\visual studio 2012\Projects\GenericPartyPlanner\GenericPartyPlanner\obj\Debug\GenericPartyPlanner.Form1.resources
+C:\Users\Chris\documents\visual studio 2012\Projects\GenericPartyPlanner\GenericPartyPlanner\obj\Debug\GenericPartyPlanner.Properties.Resources.resources
+C:\Users\Chris\documents\visual studio 2012\Projects\GenericPartyPlanner\GenericPartyPlanner\obj\Debug\GenericPartyPlanner.csproj.GenerateResource.Cache
+C:\Users\Chris\documents\visual studio 2012\Projects\GenericPartyPlanner\GenericPartyPlanner\bin\Debug\GenericPartyPlanner.exe.config
+C:\Users\Chris\documents\visual studio 2012\Projects\GenericPartyPlanner\GenericPartyPlanner\bin\Debug\GenericPartyPlanner.exe
+C:\Users\Chris\documents\visual studio 2012\Projects\GenericPartyPlanner\GenericPartyPlanner\bin\Debug\GenericPartyPlanner.pdb
+C:\Users\Chris\documents\visual studio 2012\Projects\GenericPartyPlanner\GenericPartyPlanner\obj\Debug\GenericPartyPlanner.csprojResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2012\Projects\GenericPartyPlanner\GenericPartyPlanner\obj\Debug\GenericPartyPlanner.exe
+C:\Users\Chris\documents\visual studio 2012\Projects\GenericPartyPlanner\GenericPartyPlanner\obj\Debug\GenericPartyPlanner.pdb
